@@ -1,0 +1,50 @@
+site_name,region_1,lat_WGS84,lon_WGS84,monitoring_type,count_fair,count_good,count_poor,count_advisory,algal_bloom_alert_count,pollution_alert_count,Enterococci_orgs/100_ml_75th_perc
+Hobsons Bay,Port Phillip Bay,-37.865655,144.928834,marine fixed site,NA,NA,NA,NA,1,0,NA
+Central,Port Phillip Bay,-38.057149,144.871108,marine fixed site,NA,NA,NA,NA,0,0,NA
+Patterson River,Port Phillip Bay,-38.086487,145.113846,marine fixed site,NA,NA,NA,NA,0,0,NA
+Corio Bay,Port Phillip Bay,-38.10206,144.418981,marine fixed site,NA,NA,NA,NA,0,0,NA
+Dromana,Port Phillip Bay,-38.30341,144.99132,marine fixed site,NA,NA,NA,NA,0,0,NA
+Long Reef,Port Phillip Bay,-38.03197,144.592044,marine fixed site,NA,NA,NA,NA,0,0,NA
+Corinella,Western Port,-38.37483,145.484915,marine fixed site,NA,NA,NA,NA,0,0,NA
+Hastings,Western Port,-38.330985,145.236653,marine fixed site,NA,NA,NA,NA,0,0,NA
+Lake Wellington,Gippsland Lakes,-38.1049,147.3127,marine fixed site,NA,NA,NA,NA,0,0,NA
+Lake Victoria,Gippsland Lakes,-38.0328,147.5597,marine fixed site,NA,NA,NA,NA,0,0,NA
+Lake King South,Gippsland Lakes,-37.9144,147.7806,marine fixed site,NA,NA,NA,NA,0,0,NA
+Lake King North,Gippsland Lakes,-37.874,147.7586,marine fixed site,NA,NA,NA,NA,0,0,NA
+Shaving Point,Gippsland Lakes,-37.9004,147.8555,marine fixed site,NA,NA,NA,NA,0,0,NA
+Frankston Coast Guard,Port Phillip Bay,-38.14704,145.1155,beach ,17,115,20,0,0,0,31
+Frankston LSC,Port Phillip Bay,-38.14233,145.1184,beach ,24,110,18,0,0,0,20
+Mordialloc,Port Phillip Bay,-38.00882,145.0833,beach ,11,120,21,0,0,0,10
+Mentone,Port Phillip Bay,-37.9891,145.05873,beach ,8,113,31,0,0,0,20
+St. Kilda,Port Phillip Bay,-37.86817,144.97403,beach ,20,104,28,1,0,0,52
+Middle Park,Port Phillip Bay,-37.85475,144.96172,beach ,13,115,24,0,0,0,20
+Port Melbourne,Port Phillip Bay,-37.84387,144.93777,beach ,20,105,27,0,0,0,21
+Sandridge,Port Phillip Bay,-37.84003,144.91735,beach ,15,118,19,0,0,0,20
+Altona,Port Phillip Bay,-37.87107,144.83125,beach ,9,123,20,0,0,0,75
+Williamstown,Port Phillip Bay,-37.86793,144.89305,beach ,24,103,25,0,0,0,20
+Elwood,Port Phillip Bay,-37.88906,144.98361,beach ,20,109,23,0,0,0,35
+The Dell,Port Phillip Bay,-38.1525,144.56301,beach ,18,113,19,0,0,0,10
+Queenscliff,Port Phillip Bay,-38.26818,144.66473,beach ,12,133,5,0,0,0,25
+Portsea,Port Phillip Bay,-38.31898,144.71382,beach ,15,128,7,0,0,0,10
+Sorrento,Port Phillip Bay,-38.34352,144.7528,beach ,13,131,6,0,0,0,25
+St Leonards,Port Phillip Bay,-38.17078,144.71917,beach ,16,125,9,0,0,0,10
+Blairgowrie,Port Phillip Bay,-38.36095,144.78172,beach ,11,128,11,0,0,0,10
+Portarlington,Port Phillip Bay,-38.11287,144.65302,beach ,13,126,11,0,0,0,23
+Dromana,Port Phillip Bay,-38.33203,144.96463,beach ,17,125,8,0,0,0,15
+Safety Beach,Port Phillip Bay,-38.31127,144.99237,beach ,15,128,7,0,0,0,10
+Eastern,Port Phillip Bay,-38.14667,144.37085,beach ,18,124,8,0,0,0,10
+Mount Martha,Port Phillip Bay,-38.269,145.00912,beach ,15,126,9,0,0,0,10
+St Helens,Port Phillip Bay,-38.12265,144.3592,beach ,22,103,25,0,0,0,68
+Werribee South,Port Phillip Bay,-37.97492,144.69278,beach ,27,105,18,0,0,0,31
+Mornington,Port Phillip Bay,-38.21448,145.03903,beach ,35,98,17,0,0,1,47
+Canadian Bay,Port Phillip Bay,-38.17175,145.08308,beach ,22,112,16,0,0,0,10
+Seaford,Port Phillip Bay,-38.10332,145.12455,beach ,32,100,18,1,0,0,28
+Carrum,Port Phillip Bay,-38.08003,145.12165,beach ,21,111,18,0,0,0,18
+Aspendale North,Port Phillip Bay,-38.0129,145.08873,beach ,25,111,14,0,0,0,26
+Rye,Port Phillip Bay,-38.37018,144.8321,beach ,14,122,14,0,0,0,20
+Rosebud,Port Phillip Bay,-38.35292,144.90798,beach ,17,120,13,0,0,0,19
+Beaumaris,Port Phillip Bay,-37.99497,145.03275,beach ,16,122,12,0,1,0,15
+Half-Moon Bay,Port Phillip Bay,-37.96857,145.01107,beach ,14,125,11,0,0,0,10
+Sandringham,Port Phillip Bay,-37.9508,145.00135,beach ,23,115,12,0,0,0,15
+Hampton,Port Phillip Bay,-37.938,144.99712,beach ,21,116,13,0,0,0,10
+Brighton,Port Phillip Bay,-37.92871,144.98928,beach ,20,118,12,0,0,1,10
